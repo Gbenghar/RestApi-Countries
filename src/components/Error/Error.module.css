@@ -1,0 +1,12 @@
+.error{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    left: 0;
+    top: 0;
+    position: relative;
+}
+
+a, a:active, a:hover{
+    color: hsl(0, 0%, 98%);
+}

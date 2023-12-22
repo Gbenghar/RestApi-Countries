@@ -1,0 +1,30 @@
+input{
+    padding: 10px, 25px;
+    padding-left: 10px;
+    height: 40px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    color: white;
+    border-radius: 5px;
+    background: hsl(209, 23%, 22%);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+::placeholder{
+    color: white;
+    font-size: .8rem;
+}
+
+@media (max-width: 800px) {
+    input{
+        width: 150px;
+        margin-left: -40px;
+    }
+}
+
+.form{
+    border-radius: 5px;
+    background: hsl(209, 23%, 22%);
+}

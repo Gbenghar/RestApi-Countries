@@ -1,0 +1,29 @@
+.select{
+    padding: 10px 25px;
+    padding-left: 10px;
+    height: 40px;
+    background: hsl(209, 23%, 22%);
+    color: hsl(0, 0%, 98%);
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-right: 140px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.option{
+    cursor: pointer;
+}
+
+
+
+@media (max-width: 800px) {
+    .select{
+       margin-right: -50px;
+        width: 150px;
+       
+    }
+}
+
