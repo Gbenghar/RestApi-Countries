@@ -1,15 +1,15 @@
 .select{
     padding: 10px 25px;
-    padding-left: 10px;
-    height: 40px;
+    padding-left: 0.625rem;
+    height: 2.5rem;
     background: hsl(209, 23%, 22%);
     color: hsl(0, 0%, 98%);
     margin-top: 60px;
-    margin-bottom: 50px;
-    margin-right: 140px;
+    margin-bottom: 3.125rem;
+    margin-right: 8.75rem;
     border: none;
     outline: none;
-    border-radius: 5px;
+    border-radius: 0.3125rem;
     cursor: pointer;
 }
 
@@ -21,8 +21,8 @@
 
 @media (max-width: 800px) {
     .select{
-       margin-right: -50px;
-        width: 150px;
+       margin-right: -3.125rem;
+        width: 9.375rem;
        
     }
 }

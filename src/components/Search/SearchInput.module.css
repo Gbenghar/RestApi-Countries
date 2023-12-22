@@ -1,9 +1,9 @@
 input{
     padding: 10px, 25px;
     padding-left: 10px;
-    height: 40px;
-    margin-top: 60px;
-    margin-bottom: 50px;
+    height: 2.5rem;
+    margin-top: 3.75rem;
+    margin-bottom: 3.125rem;
     color: white;
     border-radius: 5px;
     background: hsl(209, 23%, 22%);
@@ -19,8 +19,8 @@ input{
 
 @media (max-width: 800px) {
     input{
-        width: 150px;
-        margin-left: -40px;
+        width: 9.375rem;
+        margin-left: -2.5rem;
     }
 }
 
